@@ -1,0 +1,17 @@
+{
+  "name": "project-5_file_uploads",
+  "version": "1.0.0",
+  "description": "File Upload using multer",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "npx nodemon index.js"
+  },
+  "author": "Manav Desai",
+  "license": "ISC",
+  "dependencies": {
+    "cloudinary": "^2.5.1",
+    "express": "^4.21.2",
+    "multer": "^1.4.5-lts.1"
+  }
+}
